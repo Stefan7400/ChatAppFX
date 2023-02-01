@@ -1,4 +1,4 @@
 package com.example.chatappfx.ui.login;
 
-public class LoginBackend {
+public class LoginBusinessLogic {
 }
